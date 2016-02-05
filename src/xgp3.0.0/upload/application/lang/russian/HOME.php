@@ -5,9 +5,9 @@ $lang['hm_keywords']						= 'Game, Browser, online, for free, legendary, MMOG, S
 $lang['hm_description']						= 'XG Proyect - The legendary game in the space! Discover the universe together with thousands of players.';
 $lang['hm_field_required']					= 'This field is required';
 $lang['hm_must_accept_tandc']				= 'You must accept the T&Cs.';
-$lang['hm_username_length']					= 'Between 3 and 20 characters allowed.';
-$lang['hm_password_length']					= 'Between 8 and 20 characters allowed.';
-$lang['hm_valid_email_address']				= 'You need to enter a valid e-mail-address!';
+$lang['hm_username_length']					= 'Количество символов должно быть от 3 до 20.';
+$lang['hm_password_length']					= 'Количество символов должно быть от 8 до 20.';
+$lang['hm_valid_email_address']				= 'Введите действительный адрес!';
 $lang['hm_not_valid_characters']			= 'Contains invalid characters.';
 $lang['hm_username_underscore']				= 'Your name may not start or end with an underscore.';
 $lang['hm_username_space']					= 'Your name may not start or end with a space.';
@@ -20,31 +20,31 @@ $lang['hm_username_loading']				= 'Please wait, loading...';
 $lang['hm_username_not_available']			= 'This username is not available anymore';
 $lang['hm_only_characters']					= 'Use characters only.';
 $lang['hm_hidden_title']					= 'XGProyect - Conquer the universe';
-$lang['hm_login_button']					= 'Login';
-$lang['hm_close_button']					= 'Cerrar';
-$lang['hm_universe']						= 'Universe:';
-$lang['hm_username']						= 'Username:';
-$lang['hm_password']						= 'Password:';
-$lang['hm_password_forgot']					= 'Forgot your password?';
+$lang['hm_login_button']					= 'Логин';
+$lang['hm_close_button']					= 'Закрыть';
+$lang['hm_universe']						= 'Вселенная:';
+$lang['hm_username']						= 'Игровое имя:';
+$lang['hm_password']						= 'Пароль:';
+$lang['hm_password_forgot']					= 'Забыли пароль?';
 $lang['hm_play_for_free']					= 'PLAY FOR FREE!';
-$lang['hm_terms_accept']					= 'With the login I accept the';
-$lang['hm_terms']							= 'T&C`s';
-$lang['hm_mail_address']					= 'E-Mail-Address:';
-$lang['hm_password_level']					= 'Password safety:';
-$lang['hm_accept']							= 'I accept the';
-$lang['hm_and']								= 'and';
-$lang['hm_policy']							= 'Privacy Policy';
-$lang['hm_register']						= 'Register';
-$lang['hm_home']							= 'Home';
-$lang['hm_about']							= 'About XGP';
-$lang['hm_media']							= 'Media';
-$lang['hm_forum']							= 'Board';
+$lang['hm_terms_accept']					= 'Со входом в игру я принимаю';
+$lang['hm_terms']							= 'Положения';
+$lang['hm_mail_address']					= 'Электронный адрес:';
+$lang['hm_password_level']					= 'Надёжность пароля:';
+$lang['hm_accept']							= 'Я принимаю';
+$lang['hm_and']								= 'и';
+$lang['hm_policy']							= 'Условия защиты данных';
+$lang['hm_register']						= 'Рагистрация';
+$lang['hm_home']							= 'Главная';
+$lang['hm_about']							= 'Про XGP';
+$lang['hm_media']							= 'Картинки';
+$lang['hm_forum']							= 'Форум';
 
 // ajax - home
 $lang['aj_home_conquer_universe']			= 'XG Proyect - Conquer the universe';
 $lang['aj_home_description']				= '<em>XG Proyect</em> is a strategy-game set in space. Thousands of players across the world compete at the same time. In order to play you only need a web browser.';
-$lang['aj_home_rules']						= 'Rules';
-$lang['aj_home_trailer']					= 'Trailer';
+$lang['aj_home_rules']						= 'Правила';
+$lang['aj_home_trailer']					= 'Трейлер';
 
 // ajax - about
 $lang['aj_info_about_title']				= 'XG Proyect is a game of intergalactic conquest.';
@@ -58,14 +58,14 @@ $lang['aj_info_description_line5']			= '<em>Build an armada</em> to enforce your
 $lang['aj_info_description_line6']			= '<em>Hoard your resources</em> behind an impregnable wall of planetary defences.';
 $lang['aj_info_description_line7']			= 'Whatever you wish to do, <em>XG Proyect can let you do it.</em>';
 $lang['aj_info_description_line8']			= 'Will you terrorize the area around you? Or will you strike fear into the hearts of those who attack the helpless?';
-$lang['aj_info_team']						= 'Team';
-$lang['aj_info_credits']					= 'Credits';
-$lang['aj_info_images']						= 'Pictures';
+$lang['aj_info_team']						= 'Команда';
+$lang['aj_info_credits']					= 'О нас';
+$lang['aj_info_images']						= 'Картинки';
 
 // ajax - media
-$lang['aj_media_wallpapers']				= 'Wallpapers';
-$lang['aj_media_pictures']					= 'Pictures';
-$lang['aj_media_concept_art']				= 'Concept Art';
+$lang['aj_media_wallpapers']				= 'Обои';
+$lang['aj_media_pictures']					= 'Картинки';
+$lang['aj_media_concept_art']				= 'Рисунки';
 
 // registration
 $lang['re_disabled']						= 'New user registration is not currently available.';
